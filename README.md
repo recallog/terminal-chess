@@ -7,6 +7,8 @@ through famous games — then branch off to try your own ideas.
 The board is drawn with Unicode block characters and 24-bit color, and pieces
 slide to their squares when they move.
 
+![Terminal Chess replaying Hoffmann vs Petrov, Warsaw 1844](screenshot.png)
+
 ## Features
 
 - Full legal-move validation: check, pins, castling, en passant, promotion,
